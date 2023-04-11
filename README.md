@@ -1,2 +1,2 @@
-# Demo_Repo
-Learning Github 101
+# Team_Repo
+SQL Project
